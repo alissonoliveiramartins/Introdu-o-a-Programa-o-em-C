@@ -1,1 +1,1 @@
-# Introdu-o-a-Programa-o-em-C
+# Logica-de-programacao-em-C
